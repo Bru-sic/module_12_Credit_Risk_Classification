@@ -13,15 +13,19 @@ Files associated with this solution:
 
 # Installation / Setup
 
-*********** TO DO
+The following are required:
+
+* `pip install -U scikit-learn`
+
+* `pip install -U imbalanced-learn`
+
+Further inforation is available here:
+* https://scikit-learn.org/stable/install.html
+* https://imbalanced-learn.org/stable/install.html
 
 
 # Breifing
-* [Breifing](./Briefing/Briefing.md)
-
-
-# Code Source Acknowledgement
-*********** TO DO
+* [Assignment Breifing](./Briefing/Briefing.md)
 
 ---
 
