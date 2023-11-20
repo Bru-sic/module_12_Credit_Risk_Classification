@@ -19,7 +19,7 @@ The following are required:
 
 * `pip install -U imbalanced-learn`
 
-Further inforation is available here:
+Further information is available here:
 * https://scikit-learn.org/stable/install.html
 * https://imbalanced-learn.org/stable/install.html
 
